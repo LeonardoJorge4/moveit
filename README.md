@@ -12,8 +12,8 @@
   <a href="#memo-Licença">Licença</a>
 </p>
 
-<img src="levelup.png" />
-<img src="aplication.png" />
+<img src="/levelup.png" />
+<img src="/aplication.png" />
 
 ## :page_facing_up: Descrição
 O Move.it é um app que usa a técnica de Pomodoro, esse app faz com que pessoas que passa muito tempo na frente do computador realizar exercícios físicos.
@@ -71,7 +71,6 @@ $ npm run dev
 ## :man: Autor
 
 <a href="https://github.com/LeonardoJorge4/">
- <img src="https://avatars0.githubusercontent.com/u/61118233?s=400&u=37870397a9363ce5e768975c05e95a5f5d323ca1&v=4" width="70px;" alt=""/>
  <br />
  <sub><b>Leonardo Jorge</b></sub>
 </a>
@@ -80,7 +79,6 @@ $ npm run dev
 Feito com ❤️ por Leonardo Jorge :wave::wave: Entre em contato!🚀
 
 <a href="https://www.linkedin.com/in/leonardo-conrrado-a88a561b6/">
-  <img alt="Linkedin" src="https://img.shields.io/badge/-Alexandre%20Costa-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
 </a>
 
 
