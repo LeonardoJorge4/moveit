@@ -12,8 +12,8 @@
   <a href="#memo-Licença">Licença</a>
 </p>
 
-<img src="/levelup.png" />
-<img src="/aplication.png" />
+<img src="./.github/images/levelup.png" />
+<img src="./.github/images/aplication.png" />
 
 ## :page_facing_up: Descrição
 O Move.it é um app que usa a técnica de Pomodoro, esse app faz com que pessoas que passa muito tempo na frente do computador realizar exercícios físicos.
